@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiRun.CSharp.Plugins", "PiRun.CSharp.Plugins.csproj", "{6DCE5530-E047-3D5E-A664-CA292637915E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiRun.CSharp", "PiRun.CSharp.csproj", "{9FEB9B33-3EB4-0DC7-CE25-7E267772BB80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCE5530-E047-3D5E-A664-CA292637915E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DCE5530-E047-3D5E-A664-CA292637915E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DCE5530-E047-3D5E-A664-CA292637915E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DCE5530-E047-3D5E-A664-CA292637915E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FEB9B33-3EB4-0DC7-CE25-7E267772BB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FEB9B33-3EB4-0DC7-CE25-7E267772BB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FEB9B33-3EB4-0DC7-CE25-7E267772BB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FEB9B33-3EB4-0DC7-CE25-7E267772BB80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
